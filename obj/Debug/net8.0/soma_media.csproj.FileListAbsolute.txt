@@ -1,0 +1,14 @@
+C:\Users\emers\Documents\Estudos\projetoscsharp\soma_media\bin\Debug\net8.0\soma_media.exe
+C:\Users\emers\Documents\Estudos\projetoscsharp\soma_media\bin\Debug\net8.0\soma_media.deps.json
+C:\Users\emers\Documents\Estudos\projetoscsharp\soma_media\bin\Debug\net8.0\soma_media.runtimeconfig.json
+C:\Users\emers\Documents\Estudos\projetoscsharp\soma_media\bin\Debug\net8.0\soma_media.dll
+C:\Users\emers\Documents\Estudos\projetoscsharp\soma_media\bin\Debug\net8.0\soma_media.pdb
+C:\Users\emers\Documents\Estudos\projetoscsharp\soma_media\obj\Debug\net8.0\soma_media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emers\Documents\Estudos\projetoscsharp\soma_media\obj\Debug\net8.0\soma_media.AssemblyInfoInputs.cache
+C:\Users\emers\Documents\Estudos\projetoscsharp\soma_media\obj\Debug\net8.0\soma_media.AssemblyInfo.cs
+C:\Users\emers\Documents\Estudos\projetoscsharp\soma_media\obj\Debug\net8.0\soma_media.csproj.CoreCompileInputs.cache
+C:\Users\emers\Documents\Estudos\projetoscsharp\soma_media\obj\Debug\net8.0\soma_media.dll
+C:\Users\emers\Documents\Estudos\projetoscsharp\soma_media\obj\Debug\net8.0\refint\soma_media.dll
+C:\Users\emers\Documents\Estudos\projetoscsharp\soma_media\obj\Debug\net8.0\soma_media.pdb
+C:\Users\emers\Documents\Estudos\projetoscsharp\soma_media\obj\Debug\net8.0\soma_media.genruntimeconfig.cache
+C:\Users\emers\Documents\Estudos\projetoscsharp\soma_media\obj\Debug\net8.0\ref\soma_media.dll
